@@ -73,6 +73,7 @@ It would be very cool if we can imitate melting chocolate/chocolate fountain
 <p align="center">
 <img width="500" alt="Screen Shot 2024-02-05 at 1 50 29 PM" src="https://github.com/juanrozu23/MachineLab/assets/90846682/e3236706-9994-4936-810a-fd517773fc45">
 </p>
+
 # Research Presentation Ideas
 1. In the spirit of my team's proposed theme, I would love to research LaMarcus Thompson, inventor of the rollercoaster. 
 2. I am a big coffee fan, and would love to research the espresso machine. I am very interested in finding out how the pressure is produced, and in exploring the recent trend of machines without electricity/ handheld espresso machines. 
