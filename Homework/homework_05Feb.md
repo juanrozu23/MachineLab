@@ -60,7 +60,7 @@ Neopixels - make the shop sign
 Crafting skills and materials, such as papier mache
 Paint
 Laser cutting and simple woodworking skills for the staircase and second floor -- Can we use the wood workshop?
-[Turning cotton balls into cotton candy] (https://www.youtube.com/watch?v=vHuFizITMdA)
+[Turning cotton balls into cotton candy](https://www.youtube.com/watch?v=vHuFizITMdA)
 Cardboard, plastic sheets, colored paper
 
 - **Mood Board & Inspiration**
