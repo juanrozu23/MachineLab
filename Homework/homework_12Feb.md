@@ -4,11 +4,17 @@ We were very excited to get started with our candy shop. The first thing we did 
 For anyone wondering it is 80cmx64cm. 
 We began designing a precise layout for our shop, as we want to have two floors, and figuring out the structure is a natural first step.
 
-![IMG_5135](https://github.com/juanrozu23/MachineLab/assets/90846682/cf35d96e-c02b-4e68-bb34-e8f84b2d83c4)
+
+<p align="center">
+<img  width="400" alt="Measurements" src="https://github.com/juanrozu23/MachineLab/assets/90846682/cf35d96e-c02b-4e68-bb34-e8f84b2d83c4">
+</p>
 
 Jackie designed an amazing railing which we cut using the laser cutter from the Scene Shop. (Jackie works there) This gave us a good headstart in the construction. We aim to have the floors and railings complete sooner rather than later. This will allow us to have a structure to which we can add our mechanisms + decorations later. We believe this will be easier than doing it the other way around. We discussed quite a bit where will we position our cables, and what mechanisms do we want to run when.
 
-![IMG_5133](https://github.com/juanrozu23/MachineLab/assets/90846682/03b03903-3147-4d06-a4ea-360ca2757d79)
+
+<p align="center">
+<img  width="400" alt="Measurements" src="https://github.com/juanrozu23/MachineLab/assets/90846682/03b03903-3147-4d06-a4ea-360ca2757d79">
+</p>
 
 Furthermore, we also began working on our **centerpiece**. This might not be the most challenging per se, but the largest and most important. We want to make sure it is perfect in our final product! We could not find the Lazy Susan on friday, so we attached a stepper motor to a makeshift base using blue tack. Even though we do not plan to keep this AT ALL, we wanted to connect the stepper motor to a tree, and figure out **the dynamics of controlling it.** It ended up working quite well. We designed a cardboard tree, and wrote the code in Arduino so that we can control the spinning (turn it on and off). 
 
