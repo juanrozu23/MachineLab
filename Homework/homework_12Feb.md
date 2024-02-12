@@ -22,6 +22,9 @@ https://github.com/juanrozu23/MachineLab/assets/90846682/18d69d4e-20b5-4cff-9213
 
 As Aigerim mentions in the video, we realized we did not really know how to control a stepper motor. The first step in our next progress report is to fix this so we can control the rotation as we please. The second step is to add the Lazy Susan. We will larger pieces of wood than the one pictured, they will be round, and we will attach them using screws. We could not meet over the weekend, but plan to do this very soon. 
 
+<img width="847" alt="Screen Shot 2024-02-12 at 2 26 41 PM" src="https://github.com/juanrozu23/MachineLab/assets/90846682/9fab3374-012e-42e4-9d7d-3a0e11ca7f2b">
+
+
 Some challenges that we are concerned about (not concerned concerned, but want to keep in mind):
 1. The stepper motor has a very visible clock-wise moition. Are we ok with this, or do we want to use a continous servo/another motor? Will it look different once we implement the lazy susan?
 2. Will we be able to place cables underneath the "floor", or should we build a platform under which we place the motor of the tree and the board?
