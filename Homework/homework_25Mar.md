@@ -18,3 +18,6 @@ Since last week, our team has made important progress on the candy store:
 
 https://github.com/juanrozu23/MachineLab/assets/90846682/fbff5afe-f2af-41e6-83cc-23af15afcc7b
 
+![8656AC4F-4087-4796-8265-BC3373B3FC16](https://github.com/juanrozu23/MachineLab/assets/90846682/36250d40-91e6-4e72-a981-f43cbcf6743f)
+
+
